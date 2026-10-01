@@ -1,6 +1,19 @@
 # Tumble trailer
 
-**[tumble-trailer.mp4](tumble-trailer.mp4)**: 83 seconds, 1920×1080, 30 fps.
+<a href="https://cdn.jsdelivr.net/gh/ShrimpScript/Tumble@main/trailer/tumble-trailer-web.mp4"><img src="preview.webp" alt="Tumble trailer: a creeper blows Steve off a ledge and down a cave" width="720"></a>
+
+**[▶ Watch it in the browser](https://cdn.jsdelivr.net/gh/ShrimpScript/Tumble@main/trailer/tumble-trailer-web.mp4)**
+(83 seconds, with sound).
+
+| File | |
+|---|---|
+| [tumble-trailer.mp4](tumble-trailer.mp4) | The master: 1920×1080, 30 fps, 5.2 Mbps, 56 MB. [Download](https://github.com/ShrimpScript/Tumble/raw/main/trailer/tumble-trailer.mp4). |
+| [tumble-trailer-web.mp4](tumble-trailer-web.mp4) | 1280×720 cut for streaming, 18 MB, under jsDelivr's 20 MB limit. That is the link above. |
+| [preview.webp](preview.webp) | Six silent looping seconds around the explosion, for embedding. |
+
+GitHub cannot play videos from a repository: its file view has no player, and raw
+links download the file. jsDelivr serves the same file from the repository as
+`video/mp4`, so browsers play it in their own player.
 
 Steve takes a nice walk to a cave, a creeper sends him all the way to the bottom of it,
 and he comes back for his stuff. A montage covers the rest of the mod: lightning, elytra

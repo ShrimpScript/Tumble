@@ -15,6 +15,15 @@ crash, or on demand from a keybind. Flop against the world, then get back up.
 Ragdolls are simulated on the server and synchronised to everyone, so the body other
 players see is the body that is actually there.
 
+## Trailer
+
+<a href="https://cdn.jsdelivr.net/gh/ShrimpScript/Tumble@main/trailer/tumble-trailer-web.mp4"><img src="trailer/preview.webp" alt="Tumble trailer: a creeper blows Steve off a ledge and down a cave" width="720"></a>
+
+**[▶ Watch the trailer](https://cdn.jsdelivr.net/gh/ShrimpScript/Tumble@main/trailer/tumble-trailer-web.mp4)**
+(1:23, with sound, plays in the browser) ·
+[1080p download](https://github.com/ShrimpScript/Tumble/raw/main/trailer/tumble-trailer.mp4) ·
+[how it was made](trailer/README.md)
+
 ## Status
 
 Playable. Ragdolls, death corpses and mob bodies all work in game.
