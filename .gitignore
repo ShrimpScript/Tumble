@@ -30,3 +30,8 @@ run-data
 toolchain
 .agent
 logs
+
+# Trailer pipeline: dependencies and everything it downloads or renders
+trailer/render/node_modules
+trailer/render/package-lock.json
+__pycache__/

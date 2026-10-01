@@ -1,0 +1,8 @@
+{
+  "name": "tumble-trailer-renderer",
+  "private": true,
+  "description": "Renders the Tumble trailer frames in headless Chromium.",
+  "dependencies": {
+    "three": "0.169.0"
+  }
+}
